@@ -2,7 +2,7 @@
 import telebot
 
 ###our token and bot init
-bot = telebot.TeleBot("698270689:AAFuWsys0lENf6Cp9WhJkBAFH-8W3MjYE6E")
+bot = telebot.TeleBot("https://testfsfs.herokuapp.com/:698270689:AAFuWsys0lENf6Cp9WhJkBAFH-8W3MjYE6E")
 
 
 
